@@ -1,0 +1,1 @@
+Deno compile --allow-run --allow-write main.js
